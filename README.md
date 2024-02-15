@@ -19,4 +19,4 @@ CSS: Styling the components for a visually appealing design.
 
 
 ## Acknowledgments
-Learning from Google and Youtube
+Google Articles and Youtube Mentors
